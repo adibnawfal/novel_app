@@ -4,6 +4,8 @@
 
 ![Design preview for Novel App](./assets/banner.png)
 
+You can view the design file [here](https://www.figma.com/design/YfdRkqjQMXBYoq75Q1LwyI/Novel-App?node-id=0-1&t=yV67Wbi4OnkOKRio-1).
+
 ## Welcome! 👋
 
 A project to practice building apps using Flutter.
