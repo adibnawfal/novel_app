@@ -19,6 +19,7 @@ class SearchView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      resizeToAvoidBottomInset: false,
       body: Obx(() {
         if (searchNovelController.isLoading.value) {
           return Center(child: CircularProgressIndicator());

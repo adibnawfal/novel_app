@@ -18,6 +18,7 @@ class LoginView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: AppColors.primary,
+      resizeToAvoidBottomInset: false,
       appBar: _appBar(),
       body: SafeArea(
         child: Padding(

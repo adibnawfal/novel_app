@@ -19,6 +19,7 @@ class ValidateotpView extends StatelessWidget {
     final otp = Get.arguments['otp'];
 
     return Scaffold(
+      resizeToAvoidBottomInset: false,
       appBar: _appBar(),
       body: SafeArea(
         child: Padding(
