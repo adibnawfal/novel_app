@@ -1,6 +1,6 @@
 ## Novel App
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
 
 ![Design preview for Novel App](./assets/banner.png)
 
